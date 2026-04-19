@@ -41,4 +41,4 @@ This project is open-source and available under the MIT License.
 
 **Developed by Abdul Rehman Ali**
 
-**Linkedin:** https://www.linkedin.com/in/abdul-rehman-ali-24964735b/
+**Linkedin:** https://www.linkedin.com/in/abdul-rehman-ali/
